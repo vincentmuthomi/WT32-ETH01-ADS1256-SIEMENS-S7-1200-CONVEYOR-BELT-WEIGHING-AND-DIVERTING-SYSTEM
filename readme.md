@@ -1,7 +1,7 @@
 
 # Conveyor Belt Dynamic Weighing System
 
-Project by: Vincent Muthomi - Mechatronics Engineering Graduate JKUAT
+Project by: Vincent Muthomi - Mechatronics YR - 2026 Engineering Graduate JKUAT
 Contact: vincentmuthomi698@gmail.com
 
 This project implements an interface between IoT and industrial automation for a conveyor-belt-based dynamic weighing system. It combines an ESP32-based WT32-ETH01 controller, dual load cells, an ADS1256 ADC, and a Siemens PLC running ladder logic in TIA Portal. The result is a system that can measure moving objects, publish the detected weight data over Modbus TCP, and coordinate downstream actions such as solenoid valve actuation.
